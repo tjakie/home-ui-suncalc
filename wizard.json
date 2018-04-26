@@ -1,0 +1,8 @@
+{
+	"lat": {
+		"type": "text"
+	},
+	"lon": {
+		"type": "text"
+	}
+}
